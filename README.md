@@ -1,5 +1,5 @@
 To run flask application 
 
 ``
-python app.py
+python application.py
 ``
